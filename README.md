@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+### 💻 About Me : 
 
-**Sylangkk/Sylangkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sylangkk and I'm a dev from north of France. I work with Lua and JS. 
 
-Here are some ideas to get you started:
+⚡ General:
 
 - 🔭 I’m currently working on Empyre RP
-- 🌱 I’m currently learning lua, JS, HTML and CSS.
+- 🌱 I’m currently learning JS, HTML and CSS.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sylangkk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
