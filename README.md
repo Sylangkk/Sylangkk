@@ -9,10 +9,7 @@ A Passionate fullstack developer from France.
 - 🔭 I’m currently working on RLife RP
 - 🌱 I’m currently learning C# and C++ (React SOON).
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Z3rio/count.svg" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sylangkk&label=Profile%20views&color=0e75b6&style=flat" alt="sylangkk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylangkk" alt="sylangkk" /></a> </p>
 
