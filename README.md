@@ -36,6 +36,6 @@ A Passionate fullstack developer from France.
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sylangkk&show_icons=true&locale=en" alt="sylangkk" /></p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sylangkk&show_icons=true" alt="sylangkk" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sylangkk&show_icons=true" alt="sylangkk" /></p>
 
 <p style="margin-top:20px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylangkk&" alt="sylangkk" /></p>
