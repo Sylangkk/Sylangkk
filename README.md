@@ -2,7 +2,7 @@
 
 ### 💻 About Me:
 
-A Passionate fullstack developer from France.
+A Passionate Dev Student and fullstack developer from France.
 
 ⚡ General:
 
