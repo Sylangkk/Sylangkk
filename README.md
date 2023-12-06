@@ -7,7 +7,7 @@ A Passionate Dev Student and fullstack developer from France.
 ⚡ General:
 
 - 🔭 I’m currently working for Unity RP
-- 🌱 I’m currently learning C# and C++ (React SOON).
+- 🌱 I’m currently learning C++ and ReactJS.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylangkk&label=Profile%20views&color=0e75b6&style=flat" alt="sylangkk" /> </p>
 
