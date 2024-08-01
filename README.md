@@ -7,7 +7,7 @@ A Passionate Dev Student and fullstack developer from France.
 ⚡ General:
 
 - 🔭 I’m currently working for ?
-- 🌱 I’m currently learning C++ and ReactJS.
+- 🌱 I’m currently learning Angular
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylangkk&label=Profile%20views&color=0e75b6&style=flat" alt="sylangkk" /> </p>
 
@@ -30,6 +30,8 @@ A Passionate Dev Student and fullstack developer from France.
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
 <div style="display:flex; flex-direction:column;">
